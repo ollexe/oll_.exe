@@ -4,6 +4,6 @@ Hi, my names **Ollie**
 <p align="center">
 <img
 src="https://i.kym-cdn.com/photos/images/newsfeed/002/224/606/005.png"
-width="100" height="100"
+width="200" height="200"
 border="10"/>
 </p>
